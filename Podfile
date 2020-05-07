@@ -8,11 +8,11 @@ target '@TCS' do
    use_frameworks!
 
   # Pods for @TCS
-    pod 'Fabric'
-    pod 'Crashlytics'
-    pod 'Navigine'
-    pod 'MQTTClient'
-    pod 'MBProgressHUD'
+#    pod 'Fabric'
+#    pod 'Crashlytics'
+#    pod 'Navigine'
+#    pod 'MQTTClient'
+#    pod 'MBProgressHUD'
     #pod 'SparkSDK'
     #pod 'Alamofire'
     #pod 'AlamofireNetworkActivityIndicator'
