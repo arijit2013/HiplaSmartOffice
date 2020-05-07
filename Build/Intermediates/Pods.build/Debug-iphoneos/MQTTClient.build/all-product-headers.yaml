@@ -1,0 +1,212 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-Swift.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Headers/MBProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-umbrella.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MBProgressHUD/MBProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MBProgressHUD/MBProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Intermediates/Pods.build/Debug-iphoneos/MBProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MQTTClient/MQTTClient.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ForegroundReconnection.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/ForegroundReconnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "GCDTimer.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/GCDTimer.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTCFSocketDecoder.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTCFSocketDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTCFSocketEncoder.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTCFSocketEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTCFSocketTransport.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTCFSocketTransport.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTClient-Swift.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MQTTClient/MQTTClient.framework/Headers/MQTTClient-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTClient-umbrella.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/Target Support Files/MQTTClient/MQTTClient-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTClient.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTCoreDataPersistence.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTCoreDataPersistence.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTDecoder.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTInMemoryPersistence.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTInMemoryPersistence.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTLog.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTMessage.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTPersistence.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTPersistence.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTProperties.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTProperties.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSSLSecurityPolicy.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSSLSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSSLSecurityPolicyDecoder.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSSLSecurityPolicyDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSSLSecurityPolicyEncoder.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSSLSecurityPolicyEncoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSSLSecurityPolicyTransport.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSSLSecurityPolicyTransport.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSession.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSession.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSessionLegacy.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSessionLegacy.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSessionManager.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTSessionSynchron.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTSessionSynchron.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTStrict.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTStrict.h"
+        },
+        {
+          'type': 'file',
+          'name': "MQTTTransport.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/MQTTTransport.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReconnectTimer.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/MQTTClient/MQTTClient/MQTTClient/ReconnectTimer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/MQTTClient/MQTTClient.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Intermediates/Pods.build/Debug-iphoneos/MQTTClient.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/Pods__TCS.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-@TCS-umbrella.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Pods/Target Support Files/Pods-@TCS/Pods-@TCS-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods__TCS-Swift.h",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/Pods__TCS.framework/Headers/Pods__TCS-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Products/Debug-iphoneos/Pods__TCS.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/fnspl/Desktop/Hipla office all/Hipla Office new_baseline/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-@TCS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
